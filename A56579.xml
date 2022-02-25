@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest and peaceable letter concerning comprehension, &amp;c.</title>
+            <author>B. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56579</idno>
+            <idno type="STC">Wing P7</idno>
+            <idno type="STC">ESTC R7834</idno>
+            <idno type="EEBO-CITATION">13724842</idno>
+            <idno type="OCLC">ocm 13724842</idno>
+            <idno type="VID">101576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101576)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest and peaceable letter concerning comprehension, &amp;c.</title>
+                  <author>B. P.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: B.P.</note>
+                  <note>Caption title: A letter concerning comprehension.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Church and state --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101576:1" rendition="simple:additions"/>
+            <p>A Modeſt and Peaceable LETTER CONCERNING Comprehenſion, &amp;c.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101576:2"/>
+            <pb n="1" facs="tcp:101576:2" rendition="simple:additions"/>
+            <head>A LETTER Concerning COMPREHENSION.</head>
+            <opener>
+               <salute>Good Couſin,</salute>
+            </opener>
+            <p>I Am right ſorry, that the Parliaments caſting out the <hi>Bill of Comprehenſion</hi> ſhould ſo much concern you as to put you into ſuch a paſſion as you expreſt againſt them, and me, at our laſt nights meeting. Sure the Company you now converſe with, and the ſtrange Principles with which they have now poſſeſt you, have alter'd your nature, and turn'd your former reaſon into prejudice, and unbelief; if not, you would have believ'd what I did ſo ſeriouſly affirm to be a known truth: namely, <hi>That this Age is not more ſevere againſt the diſturbers of the ſetled Peace and Government of the Church and State, than they were in the very happy days of our Good Queen Elizabeth.</hi> Some of the Reaſons why I ſaid ſo, I do with very much af<g ref="char:EOLhyphen"/>fection tender to your Conſideration, and to your
+<pb n="2" facs="tcp:101576:3"/>
+Cenſure to; and that the laſt may be the more cha<g ref="char:EOLhyphen"/>ritable, and you not apt to make the errors or failings of your Governors ſeem more or greater than indeed they are; let me intreat that you remember what I have very often ſaid to you; namely, <hi>That malicious men</hi> (of whom really I do not take you to be one) <hi>are the beſt Accuſers, and the worſt Judges.</hi> And indeed I fear it would prove to be a bitter truth, if ſome had that power which too many labour for in theſe days, in which <hi>Schiſm</hi> and <hi>Sedition</hi> are taken to be no ſins; by men who pretend a tenderneſs of Conſcience in much ſmaller matters.</p>
+            <p>And that I may keep ſome order, and you be the better ſatisfied in what I intend in this Letter; I earneſtly intreat that you will at your next leiſure read in Mr. <hi>Cambdens</hi> true Hiſtory of the Life and Raign of our Good Queen <hi>Elizabeth;</hi> in which you may find what care was then taken to prevent Schiſm and the ſad confuſion that attends it; and, how the Contrivers of Libels, and diſperſers of them have been ſeverely puniſht, many of them even to death; as namely, <hi>Henry Barrow,</hi> and many of his Sectaries for diſturbing the publick peace of the Nation, by ſcattering abroad their monſterous Opinions; as alſo, for affirming the Church of <hi>England</hi> to be no true Church; and the like. As you may find written by the ſaid Mr. <hi>Cambden</hi> in the thirty-ſixth year of that Good Queens Raign.</p>
+            <p>But I commend more eſpecially to your Conſi<g ref="char:EOLhyphen"/>deration, the ſtory and ſad death of <hi>Hacket,</hi> and
+<pb n="3" facs="tcp:101576:3"/>
+his Adherents; as namely, of <hi>Wiginton, Arthington,</hi> and <hi>Copinger,</hi> all of one Sect and Brotherhood: But I ſay I do moſt ſeriouſly commend to your Conſideration the beginning and death of the ſaid <hi>Hacket;</hi> who was firſt but a Schiſmatick, and ſtopt not there, but became by degrees ſo fully poſſeſt by the evil ſpirit, the ſpirit of pride and oppoſition, that he publickly revil'd the Queen, the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury</hi> and the Lord Chancellor; and at laſt became ſo infamous an Heretick, that he was condemn'd to death for his errors; at which time he revil'd and curſt his Judges; and died blaſphe<g ref="char:EOLhyphen"/>ming and reproaching his Creator: This you may read in the Thirty-fourth year of Queen <hi>Elizabeth,</hi> as it is written by honeſt learned Mr. <hi>Cambden,</hi> who concludes this ſtory of <hi>Hacket</hi> with this obſervation, <hi>Thus doth the enemy of Mankind bewitch thoſe men whom he ſeeth are not content to be wiſe unto ſobriety.</hi> Theſe ſtories I ſay, and too many like them, you may find in Mr. <hi>Cambd.</hi> Hiſt. of Q. <hi>Eliz.</hi> and you may find the like in Biſhop <hi>Spots woods</hi> Hiſtory of the Church of <hi>Scotland;</hi> and alſo the like in Mr. <hi>Fullers</hi> Hiſtory of the Church of Great <hi>Brittan;</hi> and you may there find alſo, what labour hath been uſed by the diſ<g ref="char:EOLhyphen"/>contented Non-conformiſts to unſettle the Govern<g ref="char:EOLhyphen"/>ment of the Church, and conſequently of the State; and may there alſo find, how ſeverely many of them have been puniſht: So that you need not wonder at what I ſaid laſt night; not think theſe the only times of perſecuting men of tender Conſciences. And for the better Confirmation of what I now
+<pb n="4" facs="tcp:101576:4"/>
+write to you, I will refer you toone Teſtimonymore in the time of our peaceful K. <hi>James,</hi> and you may view it, in the ſecond Volum of the Reports of Judg <hi>Crook,</hi> a man very Learned in the Law. But I ſhall firſt tell you the occaſion of that Report, which was this, The Non-conformiſts (which are in that Re<g ref="char:EOLhyphen"/>port called by the name of <hi>Puritans</hi>) had given out that the King had an intent to ſet up or give a To<g ref="char:EOLhyphen"/>leration to <hi>Popery;</hi> and they had alſo compos'd a large Petition complaining of the ſeverity of ſome uſage, and of ſome Laws that concern'd themſelves, and deſir'd that the ſeverity of thoſe Laws might be mitigated; and other like deſires were in the ſaid petition; to which they had procur'd not leſs than ſeven hundred hands, and the cloſe of it was, <hi>That if theſe deſires were not granted, many thou<g ref="char:EOLhyphen"/>ſands of his ſubjects would be diſcontented:</hi> Which indeed was not a threatning, but was underſtood to be ſomewhat like it. This report of his Majeſties intent to ſet up or tolerare <hi>Popery,</hi> begot many fears and diſcontents in the Nation, and to prevent greater diſturbances the King did appoint many of his Privy Council, and all the Judges of the Land, to meet together in the Star-Chamber; in which Aſſembly the Lord Chancellor declar'd to them the occaſion of this their publick Convention; and asked the Judges this following queſtion. (As you may read it in the very ſame words in the ſaid Learned Judges Reports in the ſecond year of the Raign of King <hi>James.</hi>)</p>
+            <q>
+               <pb n="5" facs="tcp:101576:4"/>
+               <hi>Whether it were an ofſence puniſhable, and what puniſhment they deſerv'd, who framed petitions and collected a multitude of hands thereto, to prefer to the King in a publick cauſe as the</hi> Puritans <hi>had done, with an intimation to the King, that if he denyed their suit, many thouſands of his Subjects would be diſcontented: Whereto all the Judges anſwered that it was an ofſence ſinable at diſcretion, and very near</hi> Treaſon <hi>and</hi> Felony <hi>in the puniſh<g ref="char:EOLhyphen"/>ment; for, they tended to the raiſing ſedition, re<g ref="char:EOLhyphen"/>bellion and diſcontent among the People: To which reſolution all the Lords agreed. And then many of the Lords declared, That ſome of the</hi> Puritans <hi>had raiſed a falſe rumor of the King, That he intended to grant a Toleration to</hi> Papiſts: <hi>Which ofſence the Judges conceiv'd to be hainouſly finable by the rules of the Common Law, either in the</hi> Kings-Bench, <hi>or by the King and his Council; or now, ſince the Statute of the Third of</hi> Henry <hi>the Seventh in the</hi> Star-Chamber. <hi>And the Lords ſeverally declared, How the King was diſcontented with the ſaid falſe rumor, and had made but the day before a Proteſta<g ref="char:EOLhyphen"/>tion to them, that he never intended it; and, that he would ſpend the laſt drop of blood in his body, before he would do it; and prayed that before He or any of his Iſſue ſhould maintain any other Religion than what he truly profeſſed and maintained, That God would take them out of the World.</hi>
+            </q>
+            <p>This you may find in the Reports of that Learned Judg as it was left amongſt many other of his Re<g ref="char:EOLhyphen"/>ports,
+<pb n="6" facs="tcp:101576:5"/>
+all exactly written with his own hand; and as they are now publiſht by Sir <hi>Harebottle Grimſtone</hi> who now is the worthy Maſter of the <hi>Rolls.</hi> And you may note that the ſaid Reports were publiſht in the year 1658, at which time <hi>Oliver</hi> the Tyrant was in his full power; and you may there find that all his Judges allowed theſe Reports to be made publick, and ſubſcribed their Names to them; and with <hi>Oliver's</hi> conſent doubtleſs: for, he had found that thoſe very Non-conformiſts, whoſe Sedition helpt him into his power, became after a ſhort time as reſtleſs and diſcontent, as they were with their lawful King; and indeed as willing to pull him down, as they had been diligent to ſet him up.</p>
+            <p>Dear Couſin! theſe Places to which I have re<g ref="char:EOLhyphen"/>fer'd you for a Teſtimony of what I ſaid are not to be doubted; and, though you would not then give any credit to what I aſſur'd you I knew to be a truth; yet I hope you now will.</p>
+            <p>And now ſeriouſly Sir! let me appeal to your own Conſcience, and ask how eaſily would you have given credit to any ſtranger, that had brought you news of any error committed by any <hi>Biſhop</hi> or their <hi>Chaplins;</hi> or by any of the <hi>Conformable Clergy,</hi> though there were not any reaſonable Probability for it. Dear Couſin conſider what I ſay, and con<g ref="char:EOLhyphen"/>ſider there is a great ſtock of <hi>innocent blood</hi> to be anſwered for; not only the blood of our late <hi>Ver<g ref="char:EOLhyphen"/>tuous King,</hi> and the blood of the <hi>Arch-Biſhop</hi> of <hi>Canterbury,</hi> and the Lord <hi>Strafford,</hi> but the blood of many good and innocent Families, that now
+<pb n="7" facs="tcp:101576:5"/>
+eat the bread of ſorrow, by being impoveriſht and un<g ref="char:EOLhyphen"/>done; and which is worſe, there is a corruption of the manners of the greateſt part of the Nation to be an<g ref="char:EOLhyphen"/>ſwered for; and all this occaſioned by our late Civil War; and that War, occaſioned by the diſcontented reſtleſs Non-conformiſts; and them only, for till then we knew not the name of <hi>Independent,</hi> or of <hi>Seiker,</hi> or <hi>Quaker.</hi> Couſin, theſe are the ſad effects of theſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buſie bodies; many of whom, God hath ſtill ſo blinded that they cannot yet ſee the errors they have run them<g ref="char:EOLhyphen"/>ſelves and the Nation into; nay, that would imbroile it again into greater ruin rather than not be complyed with in their peeviſh deſires and deſignes. Dear Cou<g ref="char:EOLhyphen"/>ſin, I will not ſay all; but indeed, too many of the men with whom you comply and do ſo much magnifie, are too like <hi>Simeon</hi> and <hi>Levi</hi> that were Brethren in this iniquity. And as you love the peace of the Church, in which you were Baptized; and the peace of the Land in which you were born, and live, and enjoy what you have; nay, as you love the peace of your own Soul draw back and let it not enter any more into their Councels or Confederacy; but at laſt take notice that though neither you nor any of your Aſſociates ſcruple at the ſin of <hi>Sedition,</hi> but ruſh into it without Conſide<g ref="char:EOLhyphen"/>ration or fear, even as a Horſe ruſhes into the battel; yet, I pray take notice that St. <hi>Paul</hi> in his Epiſtle to the <hi>Galatians,</hi> reckons it with the deeds of the fleſh, even with <hi>murder</hi> and <hi>Witchcraft,</hi> which you ſo much abhor; and many think <hi>Sedition</hi> a more hainous ſin than they, by reaſon of the more evil and more deſtructive effects of it: for, <hi>murder</hi> may become ſo
+<pb n="8" facs="tcp:101576:6"/>
+by taking away the life of but one ſingle perſon: and <hi>witchcraft</hi> hath its limits and bounds ſet to it, perhaps not to take away the life of any man, but only to do miſchief to a ſingle perſon, or a Family; and muſt end there: But who knows the limits of <hi>Sedition?</hi> or, when the fire is kindled which is intended by ſeditious men, who can, who is able to quench it? And for ſome proof of the miſerable effects of it, though I might give you too many ſad inſtances of them in former times; yet I will only refer you to the late <hi>Long Par<g ref="char:EOLhyphen"/>liament</hi> now freſh in memory, and the woful effects of that Civil War, begot and maintained by ſeditious diſcontented men.</p>
+            <p>And for the ſorrow you expreſs for thoſe men of tender Conſciences, that are ſcandalized at wearing a Surplice, kneeling at receiving the Sacrament, the Croſs in Baptiſm and the like; and would have them there<g ref="char:EOLhyphen"/>fore taken away, that ſo many, ſo learned, and ſo godly Men might by taking them away, be brought to a Conformity and made capable of preaching the Goſ<g ref="char:EOLhyphen"/>pel, which otherwiſe they cannot do, being ſcanda<g ref="char:EOLhyphen"/>lized at theſe Ceremonies. I now ask you what if more men? and more learned men? and more godly men? and as tender conſcioned men ſhall be ſcandali<g ref="char:EOLhyphen"/>zed by their being taken away? What care will you or thoſe of your party take for their tender Conſcien<g ref="char:EOLhyphen"/>ces? Nay, I ask again, what if we ſhall forget or neg<g ref="char:EOLhyphen"/>lect the tender Conſciences of our own party, and comply with yours? What ſecurity can you or they give us, that this ſhall ſatisfie them ſo as to ask no more when this is granted? Or that a year hence their Diſ<g ref="char:EOLhyphen"/>ciples,
+<pb n="9" facs="tcp:101576:6"/>
+or their Succeſſors ſhall reſt ſatisfied with what is now granted? Really, I cannot think any ſecurity can be given, but that this being granted, yet any man of a melancholly, or a malicious, or a peeviſh, or a fantaſti<g ref="char:EOLhyphen"/>cal, or a wanton Conſcience; or a Conſcience that in<g ref="char:EOLhyphen"/>clines to get reputation and Court applauſe, may call his own a tender Conſcience, and become ſeditious and reſtleſs, if his tender Conſcience be not compli'd with.</p>
+            <p>I ſhall next ſatisfie your deſire, or rather your chal<g ref="char:EOLhyphen"/>lenge, why I go ſo conſtantly to the <hi>Church Service;</hi> and my anſwer ſhall be in all love and in ſincerity. I go to adore and worſhip my God who hath made me of nothing, and preſerv'd me from being worſe than no<g ref="char:EOLhyphen"/>thing. And this I do inwardly in my Soul; and teſtifie it outwardly by my behaviour; as namely, by for<g ref="char:EOLhyphen"/>bearing to cover my head in that place dedicated to God, and only to his Service; and alſo by ſtanding up at the profeſſion of the Creed, which contains the ſeveral Articles that I and all true Chriſtians profeſs and believe; and alſo by ſtanding up at giving Glory to the Father, the Son, and to the Holy Ghoſt; and confeſſing them to be Three Perſons, and but one God. And (ſecondly) I go to Church to praiſe my God for his many deliverances of me from the many dangers of my Body, and more eſpecially of my Soul in ſending me Redemption by the death of his Son my Saviour; and for the conſtant aſſiſtance of his Holy Spirit; a part of which Praiſe I perform frequently in the Pſalmes, which are daily read in the Publick Congregation. And (thirdly) I go to Church publick<g ref="char:EOLhyphen"/>ly to confeſs and bewail my ſins; and to beg pardon
+<pb n="10" facs="tcp:101576:7"/>
+for them, for his merits who died to reconcile me and all Mankind unto God, who is both his and my Fa<g ref="char:EOLhyphen"/>ther; and for the Words in which I beg this mercy, they be the Letany and Collects of the Church, com<g ref="char:EOLhyphen"/>poſed by thoſe learned and devout men whom you and I have truſted to tell us which is, and which is not the written Word of God; and truſted to tranſlate thoſe Scriptures into <hi>Engliſh.</hi> And in theſe Collects you may note, that I pray for pardon of ſin, and for grace to believe and ſerve God abſolutely: but for health and peace, and plenty, for all theſe I pray conditionally, even ſo far as they may tend to his Glo<g ref="char:EOLhyphen"/>ry, and the good of my Soul, and not further: and this confeſſing my ſins, and begging mercy and pardon for them; I do by adoring my God, and the humble poſture of kneeling on my knees before Him: and in this manner, and by reverend ſitting to hear ſome choſen parts of Gods Word read, in the publick Aſ<g ref="char:EOLhyphen"/>ſembly; I ſpend one hour of the Lords day every forenoon; and half ſo much time every evening. And ſince this uniform and devout cuſtom of joining together in Publick Confeſſion and Praiſe, and Prayer, and adoration of God, and in one manner, hath been neglected; the power of Chriſtianity and humble Piety is ſo much decayed, that it ought not to be thought on, but with ſorrow and lamentation.</p>
+            <p>And laſtly, (for I am tedious beyond my intention) whereas you and your party would have the Biſhops and Cathedral-Church-Lands ſold to ſupply the pre<g ref="char:EOLhyphen"/>ſent neceſſities of the Nation; I ſay, firſt God prevent the Nation from ſuch neceſſities as ſhall make them
+<pb n="11" facs="tcp:101576:7"/>
+guilty of ſo many Curſes as have been by the Doners of thoſe Lands intail'd with thoſe Lands upon thoſe men, that alienate them to any other uſe than of thoſe that ſhall ſerve at God's Altar; to which end the Prieſts Portion was kept with Care and Conſcience till the dayes of King <hi>Henry</hi> the Eighth, who is noted to make the firſt breach of thoſe Oaths that were al<g ref="char:EOLhyphen"/>ways taken and kept by his Predeceſſors, and taken by himſelf too, to preſerve the Church-Lands; and it is noted, that he was the firſt Violator of thoſe many Laws made alſo to preſerve them; out of which Lands he took at the diſſolution of the Abbies a part for himſelf; exchang'd a part with others that thirſted to thrive by the diſſolution; and gave the reſt to be ſhar'd amongſt the Complying Nobility, and other Families, that then were in greateſt power and favour with him; concerning which I refer you to a little Treatiſe written by the Learned Sir <hi>Henry Spelman,</hi> (called <hi>Do non temerandis Eccleſiis,</hi>) and e<g ref="char:EOLhyphen"/>ſpecially to the Preface before it; in which you may find many ſad Obſervations of the ſaid King; and find there alſo, that more of the Nobility, and thoſe other Families, and their Children that ſhared in the Church-Lands, came to die by the Sword of Juſtice, and other eminent misfortunes in twenty years, than had ſuffered in four hundred years before the diſſo<g ref="char:EOLhyphen"/>lution; for a proof of which, he refers you to the Parliament Roles of the twenty-ſeventh of that King. And to me it ſeems fit that the Obſervations of the ruin, and misfortune of the other Families that were ſharers of the Church-Lands, made by
+<pb n="12" facs="tcp:101576:8"/>
+that pious and learned Knight ſince the ſaid twenty years, are not alſo made publick; but poſſibly they may pare too neer the quick, and are therefore yet forborn.</p>
+            <p>I will ſay nothing of Queen <hi>Elizabeth;</hi> but for King <hi>James</hi> I will ſay he did neither follow King <hi>Henry</hi>'s, nor her Preſident; and his Childrens Chil<g ref="char:EOLhyphen"/>dren ſit this day upon his Throne. And for his Son, <hi>Charles</hi> the Firſt, who is juſtly called the <hi>Martyr for the Church:</hi> He had alſo well conſidered the Oaths taken by all his Anceſtors, and by Himſelf too at his Coronation; and therefore in his Book of Penitential Meditations and Vows, made in his Solitude and Impriſonment at <hi>Holmby;</hi> you may in that Chapter of the Covenant there find that at that time when he apprehended Himſelf near to death, yet that this was then his Reſolution.</p>
+            <q>
+               <p>
+                  <hi>The principal end of ſome men in this Covenant is the abaſing of</hi> Epiſcopacy <hi>into</hi> Presbytery, <hi>and of robbing the Church of its Lands and Reve<g ref="char:EOLhyphen"/>nues; But I thank God as no man lay more open to the ſacrilegious temptation of uſurping them, (which iſſuing chiefly from the Crown, are held of it, and can legally revert only to the Crown with my conſent) ſo I have always had ſuch a perfect abhorrence of it in my ſoul, that I never found the leaſt inclination to ſuch ſacrilegious refor<g ref="char:EOLhyphen"/>mings; yet no man hath a greater deſire to have Biſhops and all Church-men ſo reform'd that they may beſt deſerve and uſe, not only what the pious
+<pb n="13" facs="tcp:101576:8"/>
+munificence of my Predeceſſors have given to God and the Church, but all other additions of Chriſtian bounty.</hi>
+               </p>
+               <p>
+                  <hi>But no neceſſity ſhall ever (I hope) drive me or mine to invade or ſell the Prieſts Lands; which</hi> Pharaoh'<hi>s Divinity and</hi> Joſeph'<hi>s true piety abhorred to do. I had rather live as my Predeceſſor</hi> Henry <hi>the Third ſometimes did, on the Churches Alms than violently to take the Bread out of the Biſhops and Miniſters mouths.</hi>
+               </p>
+               <p>
+                  <hi>There are ways enough to repare the breaches of the ſtate without the ruines of the Church; as I would be a reſtorer of the one, ſo I would not be an Oppreſſor of the other under the pretence of publick debts, the occaſions of contracting them were bad enough, but ſuch a diſcharging of them would be much worſe. I pray God neither I nor mine may be acceſſary of either.</hi>
+               </p>
+            </q>
+            <p>Sir, I have been longer than I intended; for which I crave your pardon; and I beg of God, that you may at laſt ſee and well conſider the many errors that your indiſcreet zeal hath led you into; and the many miſeries it hath helpt to bring upon others, and that for the remainder of your dayes you may redeem the time paſt, and ſtudy to be quiet, and to do your own buſineſs; to this I ſhall encourage you, and to live as unoffenſively to others, and as ſtrictly to your ſelf as you do intend, and by God's
+<pb n="14" facs="tcp:101576:9"/>
+grace added to your endeavours, he ſhall make you able; and daily to practiſe an humble peaceable piety, ſo humble and peaceable a piety as may ſtop the mouths of all gain-ſayers; for, ſuch holy and quiet living will bring peace at the laſt. And in this the Almighty give me grace to be like you.</p>
+            <epigraph>
+               <q>Study to be quiet, and to do your own buſineſs,</q>
+               <bibl>
+                  <hi>1 Theſ. 4. 11.</hi>
+               </bibl>
+            </epigraph>
+            <closer>
+               <signed>Your Affectionate Friend, B. P.</signed>
+               <dateline>
+                  <date>February the 18. 1667.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
